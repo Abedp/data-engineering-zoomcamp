@@ -37,6 +37,9 @@ What should be the start date for this dag?
 * 2021-01-01
 * days_ago(1)
 
+```bash
+2019-01-01
+```
 
 ## Question 2: Frequency for the Yellow taxi data (1 point)
 
@@ -47,6 +50,9 @@ How often do we need to run this DAG?
 * Yearly
 * Once
 
+```bash
+Monthly
+```
 
 ## Re-running the DAGs for past dates
 
@@ -97,6 +103,9 @@ Question: how many DAG runs are green for data in 2019 after finishing everythin
 Note: when processing the data for 2020-01 you probably will get an error. It's up 
 to you to decide what to do with it - for Week 3 homework we won't need 2020 data.
 
+```bash
+12 (monthly)
+```
 
 ## Question 4: DAG for Zones (2 points)
 
@@ -116,6 +125,9 @@ How often does it need to run?
 * Yearly
 * Once
 
+```bash
+once
+```
 
 ## Submitting the solutions
 
